@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ru524q.pulaucuansite.cfd/sitemap.xml
